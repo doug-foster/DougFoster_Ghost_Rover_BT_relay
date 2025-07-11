@@ -1,2 +1,2 @@
-# DougFoster_EVK_RTCM_relay
-RTCM serial relay - EVK ZED UART2 -> HC-12 radio
+# DougFoster_Ghost_Rover_BT_relay
+Ghost Rover - NMEA to Bluetooth relay.
