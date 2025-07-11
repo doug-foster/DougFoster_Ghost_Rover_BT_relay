@@ -30,7 +30,7 @@
  *     -- Sparkfun ESP32-S3 Thing+  https://www.sparkfun.com/sparkfun-thing-plus-esp32-s3.html.
  *
  * --- Misc. references. ---
- *     -- TBD
+ *     -- n/a.
  * 
  * --- Dev environment. ---
  *     -- IDE: Arduino 2.3.6.
@@ -38,7 +38,7 @@
  *     -- VS Code 1.100.2 (Extensions: Better Comments, Bookmarks, C/C++, C/C++ Extension Pack, C/C++ Themes,
  *        CMake Tools, Dash, Diff Folders, Git Graph, GitHub Theme, GitLens, Markdown All in One, Serial Monitor,
  *        SFTP).
- *     -- GitHub repo: TBD.
+ *     -- GitHub repo: https://github.com/doug-foster/DougFoster_Ghost_Rover_BT_relay/tree/main.
  * 
  * --- Caveats. ---
  *     -- Only 1 HardwareSerial UART (UART0) is available on the XIAO_ESP32C6.
