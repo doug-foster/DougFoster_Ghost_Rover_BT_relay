@@ -1,0 +1,9 @@
+{
+  "additionalFiles": "../../..,../../..,../..",
+  "compiler.optimization_flags": "-Os",
+  "customBuildProperties": "",
+  "fqbn": "esp32:esp32:sparkfun_esp32s3_thing_plus:UploadSpeed=921600,USBMode=default,CDCOnBoot=cdc,MSCOnBoot=default,DFUOnBoot=default,UploadMode=default,CPUFreq=240,FlashMode=qio,PartitionScheme=no_fs,DebugLevel=none,PSRAM=enabled,LoopCore=1,EventsCore=1,EraseFlash=none,JTAGAdapter=builtin,ZigbeeMode=default",
+  "hardwareFolders": "/Users/dougfoster/Library/Arduino15/internal/esp32_esp32_3.2.1_be7999a0baf43d69,/Users/dougfoster/Library/Arduino15/internal/esp32_esp32_3.2.1_be7999a0baf43d69",
+  "otherLibrariesFolders": "/Users/dougfoster/Library/CloudStorage/Dropbox/Data/doug/Topics/_dev-arduino/libraries",
+  "sketchLocation": "/Users/dougfoster/Library/CloudStorage/Dropbox/Data/doug/Topics/_dev-arduino/DougFoster_Ghost_Rover_BT_relay"
+}

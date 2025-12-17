@@ -1,0 +1,15 @@
+profiles:
+  BLE_relay_ESP32-S3:
+    fqbn: esp32:esp32:sparkfun_esp32s3_thing_plus:UploadSpeed=921600,USBMode=default,CDCOnBoot=cdc,MSCOnBoot=default,DFUOnBoot=default,UploadMode=default,CPUFreq=240,FlashMode=qio,PartitionScheme=no_fs,DebugLevel=none,PSRAM=enabled,LoopCore=1,EventsCore=1,EraseFlash=none,JTAGAdapter=builtin,ZigbeeMode=default
+    platforms:
+      - platform: esp32:esp32 (3.2.1)
+    libraries:
+      - ESP32_BleSerial (3.0.0)
+    programmer: ""
+    port: /dev/cu.usbmodem2141201
+    port_config:
+      baudrate: "115200"
+      bits: "8"
+      parity: none
+      stop_bits: one
+default_profile: BLE_relay_ESP32-S3

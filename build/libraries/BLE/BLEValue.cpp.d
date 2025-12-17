@@ -1,0 +1,25 @@
+/Users/dougfoster/Library/CloudStorage/Dropbox/Data/doug/Topics/_dev-arduino/DougFoster_Ghost_Rover_BT_relay/build/libraries/BLE/BLEValue.cpp.o: \
+ /Users/dougfoster/Library/Arduino15/packages/esp32/hardware/esp32/3.2.1/libraries/BLE/src/BLEValue.cpp \
+ /Users/dougfoster/Library/Arduino15/packages/esp32/tools/esp32-arduino-libs/idf-release_v5.4-858a988d-v1/esp32s3/include/soc/esp32s3/include/soc/soc_caps.h \
+ /Users/dougfoster/Library/Arduino15/packages/esp32/tools/esp32-arduino-libs/idf-release_v5.4-858a988d-v1/esp32s3/include/soc/esp32s3/include/soc/mpu_caps.h \
+ /Users/dougfoster/Library/Arduino15/packages/esp32/tools/esp32-arduino-libs/idf-release_v5.4-858a988d-v1/esp32s3/qio_qspi/include/sdkconfig.h \
+ /Users/dougfoster/Library/Arduino15/packages/esp32/hardware/esp32/3.2.1/libraries/BLE/src/BLEValue.h \
+ /Users/dougfoster/Library/Arduino15/packages/esp32/hardware/esp32/3.2.1/cores/esp32/WString.h \
+ /Users/dougfoster/Library/Arduino15/packages/esp32/hardware/esp32/3.2.1/cores/esp32/pgmspace.h \
+ /Users/dougfoster/Library/Arduino15/packages/esp32/hardware/esp32/3.2.1/cores/esp32/esp32-hal-log.h \
+ /Users/dougfoster/Library/Arduino15/packages/esp32/tools/esp32-arduino-libs/idf-release_v5.4-858a988d-v1/esp32s3/include/esp_timer/include/esp_timer.h \
+ /Users/dougfoster/Library/Arduino15/packages/esp32/tools/esp32-arduino-libs/idf-release_v5.4-858a988d-v1/esp32s3/include/esp_common/include/esp_err.h \
+ /Users/dougfoster/Library/Arduino15/packages/esp32/tools/esp32-arduino-libs/idf-release_v5.4-858a988d-v1/esp32s3/include/esp_common/include/esp_compiler.h \
+ /Users/dougfoster/Library/Arduino15/packages/esp32/tools/esp32-arduino-libs/idf-release_v5.4-858a988d-v1/esp32s3/include/esp_hw_support/include/esp_etm.h \
+ /Users/dougfoster/Library/Arduino15/packages/esp32/tools/esp32-arduino-libs/idf-release_v5.4-858a988d-v1/esp32s3/include/esp_rom/esp32s3/include/esp32s3/rom/ets_sys.h \
+ /Users/dougfoster/Library/Arduino15/packages/esp32/tools/esp32-arduino-libs/idf-release_v5.4-858a988d-v1/esp32s3/include/soc/esp32s3/include/soc/soc.h \
+ /Users/dougfoster/Library/Arduino15/packages/esp32/tools/esp32-arduino-libs/idf-release_v5.4-858a988d-v1/esp32s3/include/esp_common/include/esp_assert.h \
+ /Users/dougfoster/Library/Arduino15/packages/esp32/tools/esp32-arduino-libs/idf-release_v5.4-858a988d-v1/esp32s3/include/esp_common/include/esp_bit_defs.h \
+ /Users/dougfoster/Library/Arduino15/packages/esp32/tools/esp32-arduino-libs/idf-release_v5.4-858a988d-v1/esp32s3/include/soc/esp32s3/register/soc/reg_base.h \
+ /Users/dougfoster/Library/Arduino15/packages/esp32/tools/esp32-arduino-libs/idf-release_v5.4-858a988d-v1/esp32s3/include/log/include/esp_log.h \
+ /Users/dougfoster/Library/Arduino15/packages/esp32/tools/esp32-arduino-libs/idf-release_v5.4-858a988d-v1/esp32s3/include/esp_rom/include/esp_rom_sys.h \
+ /Users/dougfoster/Library/Arduino15/packages/esp32/tools/esp32-arduino-libs/idf-release_v5.4-858a988d-v1/esp32s3/include/soc/esp32s3/include/soc/reset_reasons.h \
+ /Users/dougfoster/Library/Arduino15/packages/esp32/tools/esp32-arduino-libs/idf-release_v5.4-858a988d-v1/esp32s3/include/log/include/esp_log_level.h \
+ /Users/dougfoster/Library/Arduino15/packages/esp32/tools/esp32-arduino-libs/idf-release_v5.4-858a988d-v1/esp32s3/include/log/include/esp_log_color.h \
+ /Users/dougfoster/Library/Arduino15/packages/esp32/tools/esp32-arduino-libs/idf-release_v5.4-858a988d-v1/esp32s3/include/log/include/esp_log_buffer.h \
+ /Users/dougfoster/Library/Arduino15/packages/esp32/tools/esp32-arduino-libs/idf-release_v5.4-858a988d-v1/esp32s3/include/log/include/esp_log_timestamp.h

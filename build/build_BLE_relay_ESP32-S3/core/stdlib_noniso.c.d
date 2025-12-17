@@ -1,0 +1,9 @@
+/Users/dougfoster/Library/CloudStorage/Dropbox/Data/doug/Topics/_dev-arduino/DougFoster_Ghost_Rover_BT_relay/build/build_BLE_relay_ESP32-S3/core/stdlib_noniso.c.o: \
+ /Users/dougfoster/Library/Arduino15/internal/esp32_esp32_3.2.1_be7999a0baf43d69/cores/esp32/stdlib_noniso.c \
+ /Users/dougfoster/Library/Arduino15/internal/esp32_esp32_3.2.1_be7999a0baf43d69/cores/esp32/stdlib_noniso.h \
+ /Users/dougfoster/Library/Arduino15/internal/esp32_esp32-arduino-libs_idf-release_v5.4-858a988d-v1_2ea7ffe84f/esp32s3/include/esp_system/include/esp_system.h \
+ /Users/dougfoster/Library/Arduino15/internal/esp32_esp32-arduino-libs_idf-release_v5.4-858a988d-v1_2ea7ffe84f/esp32s3/include/esp_common/include/esp_err.h \
+ /Users/dougfoster/Library/Arduino15/internal/esp32_esp32-arduino-libs_idf-release_v5.4-858a988d-v1_2ea7ffe84f/esp32s3/include/esp_common/include/esp_compiler.h \
+ /Users/dougfoster/Library/Arduino15/internal/esp32_esp32-arduino-libs_idf-release_v5.4-858a988d-v1_2ea7ffe84f/esp32s3/include/esp_common/include/esp_attr.h \
+ /Users/dougfoster/Library/Arduino15/internal/esp32_esp32-arduino-libs_idf-release_v5.4-858a988d-v1_2ea7ffe84f/esp32s3/include/esp_common/include/esp_bit_defs.h \
+ /Users/dougfoster/Library/Arduino15/internal/esp32_esp32-arduino-libs_idf-release_v5.4-858a988d-v1_2ea7ffe84f/esp32s3/include/esp_common/include/esp_idf_version.h
