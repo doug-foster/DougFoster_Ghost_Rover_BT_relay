@@ -6,9 +6,10 @@ profiles:
     libraries:
       - ESP32_BleSerial (3.0.0)
     programmer: ""
-    port: /dev/cu.usbmodem2141201
+    port: /dev/cu.usbmodem21201
     port_config:
       baudrate: "115200"
+      lineEnding: "\r\n"
       bits: "8"
       parity: none
       stop_bits: one

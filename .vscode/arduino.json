@@ -9,11 +9,14 @@
   "configurationRequired": true,
   "compile_profile": "BLE_relay_ESP32-S3",
   "monitorPortSettings": {
-    "port": "/dev/cu.usbmodem2141201",
-    "baudRate": 115200,
-    "lineEnding": "\r\n",
-    "dataBits": 8,
-    "parity": "none",
-    "stopBits": "one"
+    "settings": {
+      "port": "/dev/tty.usbmodem21201",
+      "baudRate": 115200,
+      "lineEnding": "\r\n",
+      "dataBits": 8,
+      "parity": "none",
+      "stopBits": "one"
+    },
+    "profile_name": ""
   }
 }
