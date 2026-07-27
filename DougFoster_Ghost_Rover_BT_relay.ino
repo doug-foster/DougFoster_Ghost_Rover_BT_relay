@@ -6,7 +6,7 @@
  * @author D. Foster <doug@dougfoster.me>.
  * @since  3.0.12 [2026-02-10-03:45pm].
  * @since  3.1.2  [2026-07-27-02:00pm] Regroup. Cleanup.
- * @since  3.2.1 [2026-06-25-01:00pm] Updated GR-MCU2 LED status.
+ * @since  3.2.1  [2026-07-27-03:00pm] Updated GR-MCU2 LED status.
  * @see    https://github.com/doug-foster/DougFoster_Ghost_Rover.
  * @see    https://github.com/doug-foster/DougFoster_Ghost_Rover_BT_relay.
  * @see    https://github.com/doug-foster/DougFoster_Ghost_Rover_EVK_RTCM_relay.
